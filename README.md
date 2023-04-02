@@ -18,6 +18,7 @@ I have experience with Manual Testing, Selenium in Python, API testing with Post
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" alt="Selenium" />
   <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?logo=google-sheets&logoColor=white&style=for-the-badge" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" alt="PyCharm" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="Visual Studio Code" />
 </p>
 
