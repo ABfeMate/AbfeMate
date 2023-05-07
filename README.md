@@ -4,6 +4,7 @@
 I have experience with Manual Testing, Selenium in Python, API testing with Postman, SQL + Python, and knowledge of HTML, CSS, and JavaScript acquired through self-study. I'm always eager to learn new tools, systems, and processes.
 
 ## My projects
+* Inches to meters [convereter](https://github.com/ABfeMate/inches_to_meters_conventer_pysimplegui)
 * [Manual Tester Portfolio](https://github.com/ABfeMate/manual_tester_portfolio/blob/main/andriy_bahayev_manual_software_portfolio.pdf) created during Manual Software Testing course by Ifs&Whiles.
 * Python + SQL [projects](https://github.com/ABfeMate/python_sql_course_tasks) created during the Python and SQLite Course by Alex Smith.
 
